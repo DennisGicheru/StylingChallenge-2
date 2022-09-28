@@ -77,4 +77,16 @@ body {
 .stats {
   color: #f4670b;
   font-weight: bolder;
+}
+
+.milestones img {
+  width: 200px;
+  height: 200px;
+}
+.milestones ul {
+  list-style-type: none;
+  font-weight: bolder;
+}
+.milestones ul li {
+  padding: 10px;
 }/*# sourceMappingURL=style.css.map */
